@@ -1,13 +1,13 @@
 {
-  "main.css": "/cangSDARM/fake-zhihu-re/static/css/main.a21a7ce2.chunk.css",
-  "main.js": "/cangSDARM/fake-zhihu-re/static/js/main.b3c76bce.chunk.js",
-  "main.js.map": "/cangSDARM/fake-zhihu-re/static/js/main.b3c76bce.chunk.js.map",
-  "runtime~main.js": "/cangSDARM/fake-zhihu-re/static/js/runtime~main.c6954fb9.js",
-  "runtime~main.js.map": "/cangSDARM/fake-zhihu-re/static/js/runtime~main.c6954fb9.js.map",
-  "static/js/2.b39eac1f.chunk.js": "/cangSDARM/fake-zhihu-re/static/js/2.b39eac1f.chunk.js",
-  "static/js/2.b39eac1f.chunk.js.map": "/cangSDARM/fake-zhihu-re/static/js/2.b39eac1f.chunk.js.map",
-  "index.html": "/cangSDARM/fake-zhihu-re/index.html",
-  "precache-manifest.8051ab07e7ddba6e033907d109f811ca.js": "/cangSDARM/fake-zhihu-re/precache-manifest.8051ab07e7ddba6e033907d109f811ca.js",
-  "service-worker.js": "/cangSDARM/fake-zhihu-re/service-worker.js",
-  "static/css/main.a21a7ce2.chunk.css.map": "/cangSDARM/fake-zhihu-re/static/css/main.a21a7ce2.chunk.css.map"
+  "main.css": "/fake-zhihu-re/static/css/main.a21a7ce2.chunk.css",
+  "main.js": "/fake-zhihu-re/static/js/main.56719040.chunk.js",
+  "main.js.map": "/fake-zhihu-re/static/js/main.56719040.chunk.js.map",
+  "runtime~main.js": "/fake-zhihu-re/static/js/runtime~main.4f3ccea5.js",
+  "runtime~main.js.map": "/fake-zhihu-re/static/js/runtime~main.4f3ccea5.js.map",
+  "static/js/2.b39eac1f.chunk.js": "/fake-zhihu-re/static/js/2.b39eac1f.chunk.js",
+  "static/js/2.b39eac1f.chunk.js.map": "/fake-zhihu-re/static/js/2.b39eac1f.chunk.js.map",
+  "index.html": "/fake-zhihu-re/index.html",
+  "precache-manifest.f61407e1011269f6fbc7f96a3d927b69.js": "/fake-zhihu-re/precache-manifest.f61407e1011269f6fbc7f96a3d927b69.js",
+  "service-worker.js": "/fake-zhihu-re/service-worker.js",
+  "static/css/main.a21a7ce2.chunk.css.map": "/fake-zhihu-re/static/css/main.a21a7ce2.chunk.css.map"
 }

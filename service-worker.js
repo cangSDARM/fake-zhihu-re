@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cangSDARM/fake-zhihu-re/precache-manifest.8051ab07e7ddba6e033907d109f811ca.js"
+  "/fake-zhihu-re/precache-manifest.f61407e1011269f6fbc7f96a3d927b69.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/cangSDARM/fake-zhihu-re/index.html", {
+workbox.routing.registerNavigationRoute("/fake-zhihu-re/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
