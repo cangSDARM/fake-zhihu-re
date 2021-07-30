@@ -1,0 +1,24 @@
+{
+    "grid":{
+        "md": 1,
+        "lg": 2,
+        "sm": false,
+        "xl": 2
+    },
+    "header":{
+        "navitem": [
+            {
+                "to": "/home",
+                "name": "首页"
+            },
+            {
+                "to": "/find",
+                "name": "发现"
+            },
+            {
+                "to": "/topic",
+                "name": "话题"
+            }
+        ]
+    }
+}
